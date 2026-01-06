@@ -52,7 +52,7 @@ export async function POST(request) {
   try {
     const { postSlug, text, author } = await request.json();
 
-    // Validar
+    // Validate
     if (!postSlug || !text || !author) {
       return Response.json(
         { error: "postSlug, text and author are requested" },
