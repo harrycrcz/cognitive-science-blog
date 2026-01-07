@@ -4,7 +4,7 @@ A modern blogging platform built with Next.js, featuring real-time interactive c
 
 ## 🌐 Live Demo
 
-**[View Live](https://your-blog.vercel.app)** ← Update with your Vercel URL
+**[View Live](https://cognitive-science-blog-owqb.vercel.app/)**
 
 ## ✨ Features
 
